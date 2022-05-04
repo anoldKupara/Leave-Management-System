@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Application.Persistence.Contracts
 {
-    internal class IGenericRepository
+    public interface IGenericRepository<T> where T : class
     {
+        Task<T> GetT(int id);
+        Task<IReadOnlyList<T>> GetAll();
+        Task<T> Add(T entity);
+        Task<T> Update(T entity);
+        Task Delete(int id);
     }
 }
