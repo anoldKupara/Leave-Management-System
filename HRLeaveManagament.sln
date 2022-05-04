@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32228.343
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{61F21937-9E38-4312-BF69-04BD84CC8757}"
 EndProject
@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{5431A8B9-38CB-4F8C-B8A6-4C357AB3F584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagament.Domain", "HR.LeaveManagament.Domain\HR.LeaveManagament.Domain.csproj", "{C8477714-8E57-4C0F-BB64-AA9D652587D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR.LeaveManagament.Domain", "HR.LeaveManagament.Domain\HR.LeaveManagament.Domain.csproj", "{C8477714-8E57-4C0F-BB64-AA9D652587D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Application", "HR.LeaveManagement.Application\HR.LeaveManagement.Application.csproj", "{C3898403-01EF-479A-BE5E-4183D82D4440}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C8477714-8E57-4C0F-BB64-AA9D652587D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8477714-8E57-4C0F-BB64-AA9D652587D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8477714-8E57-4C0F-BB64-AA9D652587D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3898403-01EF-479A-BE5E-4183D82D4440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3898403-01EF-479A-BE5E-4183D82D4440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3898403-01EF-479A-BE5E-4183D82D4440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3898403-01EF-479A-BE5E-4183D82D4440}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{097F3C4D-F6E8-42B3-919F-BC6205186819} = {61F21937-9E38-4312-BF69-04BD84CC8757}
 		{5431A8B9-38CB-4F8C-B8A6-4C357AB3F584} = {61F21937-9E38-4312-BF69-04BD84CC8757}
 		{C8477714-8E57-4C0F-BB64-AA9D652587D8} = {0D4D95B6-98F8-4481-8968-8270CFAFE330}
+		{C3898403-01EF-479A-BE5E-4183D82D4440} = {0D4D95B6-98F8-4481-8968-8270CFAFE330}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FECC17B2-FC7C-4B58-B1FA-4A1C4531B521}
