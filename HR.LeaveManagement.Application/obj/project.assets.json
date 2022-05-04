@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HR.LeaveManagament.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HR.LeaveManagament.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HR.LeaveManagament.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HR.LeaveManagament.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HR.LeaveManagament.Domain/HR.LeaveManagament.Domain.csproj",
+      "msbuildProject": "../HR.LeaveManagament.Domain/HR.LeaveManagament.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HR.LeaveManagament.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kupar\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kupar\\source\\repos\\HRLeaveManagament\\HR.LeaveManagament.Domain\\HR.LeaveManagament.Domain.csproj": {
+              "projectPath": "C:\\Users\\kupar\\source\\repos\\HRLeaveManagament\\HR.LeaveManagament.Domain\\HR.LeaveManagament.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
