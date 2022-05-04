@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "F+sO6Cj/9I6UX1LChHQTejhoHEzNZeHUaMdKAZgkBnx1s+MeOQFY+iT8BNa3KRpUeKohEcar60iwdhzFDtbmSQ==",
+  "dgSpecHash": "z0KFvSJXRo7L8x7UWkReAEODJB7/5Yx8gRjEAFP2/oXAOD4vwVShGHiLK293ShdZu7/SHHXlmQudkU7R7vic0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\kupar\\source\\repos\\HRLeaveManagament\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kupar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\kupar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\kupar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kupar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kupar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\kupar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kupar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
