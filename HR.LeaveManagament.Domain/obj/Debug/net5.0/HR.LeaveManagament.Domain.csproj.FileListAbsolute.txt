@@ -1,0 +1,12 @@
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\bin\Debug\net5.0\HR.LeaveManagament.Domain.deps.json
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\bin\Debug\net5.0\HR.LeaveManagament.Domain.dll
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\bin\Debug\net5.0\HR.LeaveManagament.Domain.pdb
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.csproj.AssemblyReference.cache
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.AssemblyInfoInputs.cache
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.AssemblyInfo.cs
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.dll
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\refint\HR.LeaveManagament.Domain.dll
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\HR.LeaveManagament.Domain.pdb
+C:\Users\kupar\source\repos\HRLeaveManagament\HR.LeaveManagament.Domain\obj\Debug\net5.0\ref\HR.LeaveManagament.Domain.dll
